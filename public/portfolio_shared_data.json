@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "eunkyo seo",
+      "titles": [ "Back-end Developer","Oracle applications Developer", "Dev Team lead"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/seoeunkyo",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "eunkyo_01.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "Oracle",
+          "class": "devicon-oracle-original",
+          "level": "95"
+        },
+        {
+          "name": "AWS EC2",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Javascript",
+          "class": "devicon-javascript-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }

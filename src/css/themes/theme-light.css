@@ -1,0 +1,6 @@
+body[data-theme="light"] {
+    @import '../src/css/light-slider.css';
+}
+body[data-theme="light"] .slider-tab {
+    background-color: #d7caaa;
+}

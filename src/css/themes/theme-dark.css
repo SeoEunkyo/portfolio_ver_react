@@ -1,0 +1,104 @@
+body[data-theme="dark"] {
+    @import '../src/css/dark-slider.css';
+}
+body[data-theme="dark"] .slider-tab {
+    background-color: #8c8c8c;
+}
+body[data-theme="dark"] .title-styles {
+    color: white;
+}
+body[data-theme="dark"] .header-icon {
+    color: #3c342c;
+    opacity: 0.8;
+}
+body[data-theme="dark"] .slider-image {
+    border: 5px solid #8c8c8c;
+}
+body[data-theme="dark"] .language {
+    background-color: #494949;
+}
+body[data-theme="dark"] .link-href {
+    color: white;
+}
+body[data-theme="dark"] .project-date {
+    background-color: #918e97;
+    color: white;
+}
+body[data-theme="dark"] header {
+    background-color: #494949;
+}
+body[data-theme="dark"] header h1 {
+    color: white;
+}
+body[data-theme="dark"] #about {
+    background-color: #7f7f7f;
+}
+
+body[data-theme="dark"] #about h1 span {
+    color: white;
+}
+body[data-theme="dark"] #about .polaroid span {
+    background: #6d6d6d;
+}
+body[data-theme="dark"] #about .card {
+    background: #6d6d6d;
+    color: white;
+}
+/* body[data-theme="dark"] #whatido {
+    background-color: #7f7f7f;
+}
+body[data-theme="dark"] #whatido h1 span {
+    color: white;
+}
+body[data-theme="dark"] #whatido .polaroid span {
+    background: #6d6d6d;
+}
+body[data-theme="dark"] #whatido .card {
+    background: #6d6d6d;
+    color: white;
+} */
+
+body[data-theme="dark"] #portfolio {
+    background: #5b5b5b;
+}
+body[data-theme="dark"] #portfolio .section-title {
+    color: white !important;
+}
+body[data-theme="dark"] #portfolio .foto div {
+    background: #6d6d6d;
+}
+body[data-theme="dark"] #portfolio .project-title-settings {
+    color: white;
+}
+body[data-theme="dark"] #resume {
+    filter: brightness(80%);
+    background: #5b5b5b;
+}
+body[data-theme="dark"] #resume .section-title {
+    color: white !important;
+}
+body[data-theme="dark"] #resume .experience-badge {
+    background: #919191 !important;
+    color: white;
+}
+body[data-theme="dark"] #resume .main-badge {
+    background: #919191 !important;
+}
+body[data-theme="dark"] #resume .vertical-timeline-element-date {
+    color: white;
+}
+body[data-theme="dark"] #resume .vertical-timeline-element-icon {
+    background: #919191 !important;
+}
+@media only screen and (max-width: 1169px) {
+    body[data-theme="dark"] #resume .vertical-timeline-element-date {
+        color: black;
+   }
+}
+body[data-theme="dark"] .modal-inside .modal-content {
+    background: #5b5b5b;
+    color: white;
+}
+body[data-theme="dark"] .close-icon {
+    color: white;
+}

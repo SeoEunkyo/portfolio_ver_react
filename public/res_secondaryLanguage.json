@@ -1,0 +1,187 @@
+{
+    "basic_info": {
+      "description_header": "함께 성장하기에 관심 많은 개발자 서은교입니다.",
+      "description": "👋 첫 사회생활 생활은 제조업의 전산실에서 시스템운영자로써 시작하였습니다. 이후 소기업에 개발자로 여러가지 개발업무를 통하여 nodejs를 경험하면서 백엔드에 관심을 가지고 공부하고 있습니다. 자습과 소규모 프로젝트에서의 성장의 한계를 느끼고 있습니다. 좀 더 다양하고 실력 있는 개발자들과 만나서 이야기하고 협력하고 싶습니다. 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "whatido": "What I Do",
+        "experience": "Experience"
+      }
+    },
+    "whats" : [
+      {
+        "title" : "Application Development",
+        "description" : "소소한의 일상에 도움이 되고 싶습니다. 행여 그 가치가 매우 작은 것이라도 마다하지 않고 즐겁게 구현합니다. 최근에는 잉여주차장 공유시스템에 어플리케이션 개발에 대한 고민을하고 있습니다.",
+        "iclass" : "eos-icons:application-incomplete"
+      },
+      {
+        "title" : "Creative Thinking",
+        "description" : "저의 최종 목표는 창업입니다. 이 목표를 달성하기 위해서 항상 새롭고 다양한 것들을 접하려고 노력합니다. 그리고 주로 이 과정에서 다양한 아이디어를 얻을 수 있는 좋은 기회가 많이 오는 것 같습니다.",
+        "iclass" : "fa-solid:apple-alt"
+      }
+
+    ],
+
+
+    "projects": [
+      {
+        "title": "Aircondition LQC Monitoring",
+        "startDate": "2019",
+        "description": "운영 프로그램 - 검사장비, PLC에 구동관련된 데이터 제공 및 검사결과  데이터를 수집하여 시각화, 관리 프로그램 - 결과데이터 및 운영데이터를 관리하고 리포트하는 프로그램 .",
+        "images": [
+          "images/portfolio/aircon/p1.jpg",
+          "images/portfolio/aircon/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
+          }
+        ]
+      },
+      {
+        "title": "E-Mask LQC Remote Monitoring",
+        "startDate": "2020",
+        "description": "실시간 검사 모니터링(Web) - 외주업체에서 이루어지는 검사를 실시간으로 모니터링.",
+        "images": [
+          "images/portfolio/e-mask/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          }
+        ]
+      },
+      {
+        "title": "WorkList Page ",
+        "startDate": "2020",
+        "description": "팀별 개인업무 및 공통업무를 관리하고 진행사항을 표시. (프로토타입 소스)",
+        "images": [
+          "images/portfolio/worklist/p1.png"
+        ],
+        "url": "https://github.com/SeoEunkyo/todolist_next",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-plain-wordmark",
+            "name": "Nextjs"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          }
+        ]
+      },
+      {
+        "title": "SmartFactory Advancement",
+        "startDate": "2021",
+        "description": "(자동화 물류 개선) 생산량 증가에 따른 물류 지체 현상 개선, 비어있는 박스 물류 로직 변경과 관리기능 추가, 물류 카테고리화 진행에 따른 물류로직 변경으로 고객사의 물류 지체 현상 개선 및 생산량 증대.",
+        "images": [
+          "images/portfolio/smartfactory/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain-wordmark",
+            "name": "Mssql"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      
+      {
+        "company": "LG CNS Europe",
+        "title": "SmartFactory management",
+        "years": "2020.05 - 2021.05",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+          "MSsql",
+          "BizActor"
+        ]
+      },
+      {
+        "company": "Google studyJam",
+        "title": "GCP Cloud",
+        "years": "2018.10 - 2019.02",
+        "mainTech": [
+          "GCP"
+        ],
+        "technologies": [
+          "Docker",
+          "Kubernetes",
+          "Nginx"
+        ]
+      },
+      {
+        "company": "화성",
+        "title": "SI developer",
+        "years": "2018.04 - 2020.05",
+        "mainTech": [
+          "Nodejs"
+        ],
+        "technologies": [
+          "REST API",
+          "React",
+          "MySQL",
+          "JavaScript",
+          "C#"
+        ]
+      },
+      {
+        "company": "Udacity",
+        "title": "Deeplearning Foundation",
+        "years": "2017.01 - 2017.06",
+        "mainTech": [
+          "Tensolflow"
+        ],
+        "technologies": [
+          "Python",
+          "Machine learning",
+          "Anaconda"
+        ]
+      },
+
+      {
+        "company": "STX ForceTec",
+        "title": "System management",
+        "years": "2016.01 - 2018.04",
+        "mainTech": [
+          "Oracle ERP"
+        ],
+        "technologies": [
+          "PL/SQL",
+          "Oracle",
+          "SpringBoot",
+          "REST API"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "description_header": "I am Seo Eun-kyo, a developer who is interested in growing together.",
+    "description": "👋 My first company life began as system operator of the manufacturing industry. I was attracted to nodejs in various projects, and I am interested in them while studying. However, I feel limited in my growth by studying alone and working on small-scale projects. So I really want to meet, talk to, and cooperate with more diverse and talented developers.💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "whatido": "What I Do",
+      "experience": "Experience"
+    }
+  },
+  "whats" : [
+    {
+      "title" : "Application Development",
+      "description" : "I want to be helpful in small things in my daily life. Even if the value is very small, I don't mind it and enjoy it. Recently, I am thinking about developing an application in the surplus parking lot as sharing system.",
+      "iclass" : "eos-icons:application-incomplete"
+    },
+    {
+      "title" : "Creative Thinking",
+      "description" : "goal of my life is to start a business. To achieve this goal, I always try to come across new and diverse things. And I think there are many good opportunities to get various ideas in this process.",
+      "iclass" : "fa-solid:apple-alt"
+    }
+
+  ],
+
+
+  "projects": [
+    {
+      "title": "Aircondition LQC Monitoring",
+      "startDate": "2019",
+      "description": "An operation program that collects and visualizes the result data by communicating with the inspection equipment, and PLC to deliver the result and a management program that manages the driving data and reports the result data.",
+      "images": [
+        "images/portfolio/aircon/p1.jpg",
+        "images/portfolio/aircon/p2.png"
+      ],
+      "url": "",
+      "technologies": [
+
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongodb"
+        }
+      ]
+    },
+    {
+      "title": "E-Mask LQC Remote Monitoring",
+      "startDate": "2020",
+      "description": "A real-time inspection monitoring web program that inspects inspections conducted by external companies in real time.",
+      "images": [
+        "images/portfolio/e-mask/p1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "WorkList Page ",
+      "startDate": "2020",
+      "description": "A web program to manage team-level tasks and progress. (prototype sauce.)",
+      "images": [
+        "images/portfolio/worklist/p1.png"
+      ],
+      "url": "https://github.com/SeoEunkyo/todolist_next",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain-wordmark",
+          "name": "Nextjs"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "SmartFactory Advancement",
+      "startDate": "2021",
+      "description": "(Automation logistics improvement) Improving logistics delays due to increased production, Change the logic of empty box logistics and add management functions, Contributing to improving logistics delay and increasing production by changing logistics logic according to logistics categorization..",
+      "images": [
+        "images/portfolio/smartfactory/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain-wordmark",
+          "name": "Mssql"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    
+    {
+      "company": "LG CNS Europe",
+      "title": "SmartFactory management",
+      "years": "2020.05 - 2021.05",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        "MSsql",
+        "BizActor"
+      ]
+    },
+    {
+      "company": "Google studyJam",
+      "title": "GCP Cloud",
+      "years": "2018.10 - 2019.02",
+      "mainTech": [
+        "GCP"
+      ],
+      "technologies": [
+        "Docker",
+        "Kubernetes",
+        "Nginx"
+      ]
+    },
+    {
+      "company": "whasung",
+      "title": "SI developer",
+      "years": "2018.04 - 2020.05",
+      "mainTech": [
+        "Nodejs"
+      ],
+      "technologies": [
+        "REST API",
+        "React",
+        "MySQL",
+        "JavaScript",
+        "C#"
+      ]
+    },
+    {
+      "company": "Udacity",
+      "title": "Deeplearning Foundation",
+      "years": "2017.01 - 2017.06",
+      "mainTech": [
+        "Tensolflow"
+      ],
+      "technologies": [
+        "Python",
+        "Machine learning",
+        "Anaconda"
+      ]
+    },
+
+    {
+      "company": "STX ForceTec",
+      "title": "System management",
+      "years": "2016.01 - 2018.04",
+      "mainTech": [
+        "Oracle ERP"
+      ],
+      "technologies": [
+        "PL/SQL",
+        "Oracle",
+        "SpringBoot",
+        "REST API"
+      ]
+    }
+  ]
+}
